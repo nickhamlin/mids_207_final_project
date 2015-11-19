@@ -7,6 +7,7 @@ __pycache__/
 
 # Checkpoints
 *.ipynb_checkpoints
+test_labeled.csv
 
 # Data - include only train/test data for convenience
 *.csv
